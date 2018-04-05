@@ -1,0 +1,35 @@
+{
+  "name": "static-boilerplate",
+  "version": "1.0.0",
+  "description": "A modern boilerplate for deploying sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Francis Alturas",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.2",
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-cache": "^0.4.3",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-imagemin": "^2.4.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sass-glob": "^1.0.8",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^1.5.3",
+    "gulp-useref": "^3.0.8",
+    "run-sequence": "^1.2.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4in/static-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/r4in/static-boilerplate/issues"
+  },
+  "homepage": "https://github.com/r4in/static-boilerplate#readme"
+}
